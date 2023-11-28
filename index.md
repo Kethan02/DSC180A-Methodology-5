@@ -2,7 +2,7 @@
 Lakshmikethan Bethamcharla, lbethamcharla@ucsd.edu
 <br>
 Section: B18, Mentors: Brian Duke & Berk Ustun
-<br>
+<br><br>
 **What is the most interesting topic covered in your domain this quarter?** <br>
 The most interesting topic covered in my domain this quarter is how to effectively clean text. For our first quarter project we had to classify the categories of credit card purchases 
 based on the text description of the purchase. It was very interesting because we learned that TFIDF worked very efficiently in separating the purchases by their text description. 
@@ -10,7 +10,7 @@ The descriptions are not clean at all and have a bunch of unnecessary words, cha
 TFIDF to create our features and when put into a model, it works extremely well. I feel like since we learn a lot of methods in school, and it's kind of a stigma that the more complex a 
 model is the better it performs, we tend to realize how efficient the basic methods are. Here with some basic cleaning and TFIDF our group was able to achieve an accuracy of above 95%.
 It goes to show how complex ways aren't always needed to solve a problem. Stacking simple yet effective methods together can yield great results as well.
-<br>
+<br><br>
 **Describe a potential investigation you would like to pursue for your Quarter 2 Project.**<br>
 For our domain, we have our fixed project that we are going to end up working on which is coming up with our own credit score for a consumer. This score will essentially 
 predict the risk of a consumer not paying his/her bills? An investigation that we are going to pursue would be looking into specific statistics about income and spending habits of the 
@@ -19,7 +19,7 @@ to be a recurring payment. There can be a multitude of ways that people can have
 people as risky, just because they don't have a recurring income. It's not just income bias, but combining our cleaning and classifications together on our consumers can result in 
 inaccurate results. Therefore an important investigation and key challenge we have to be aware of is whether our steps are accurate to an extent. We don't want to be leaving any 
 groups unrepresented. This ties back to the idea of the model being generalized instead of being made specifically on our dataset so it can be reused with different data.
-<br>
+<br><br>
 **What is a potential change you’d make to the approach taken in your current Quarter 1 Project?**<br>
 A potential change in approach I would like to take is become more aggressive in our model creation. I want to try more methods, whether it be new cleaning methods or different 
 classification models, to see if we can improve our accuracy even more. This past quarter our group worked in conjunction testing new methods together as we familiarized ourself with 
@@ -27,7 +27,7 @@ the dataset. Now that we have built an initial model, understand our domain more
 things I want to create a schedule/weekly task system where all of us can choose what part of the project we want to explore. Therefore we can explore multiple methods quickly as we 
 all explore different ideas to implement into our model, feature list, etc. Every week we can do this for the task we have assigned. This will allow us to gain more ground as we can 
 tackle our problem from multiple angles simultaneously.
-<br>
+<br><br>
 **What other techniques would you be interested in using in your project?**<br>
 A technique that I would be interested in using is deep learning. I have had experience previously through CSE 151B, the deep learning class, but I really didn't understand how to 
 implement a model properly. As we test multiple models for our credit score creation, I want to eventually try a deep learning model to understand how it can be used in a real-world 
